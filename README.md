@@ -1,2 +1,2 @@
-# SuperStoreDataAnalysis
-The project analyzes the Superstore dataset to uncover insights on profitable product categories, regions with high sales and profit, and the most profitable products. By identifying these factors, actionable recommendations will be provided to enhance revenue and profitability for the company.
+# [Data analysis and findings](https://publuu.com/flip-book/396040/898016)
+# [Google colab Notebook](https://colab.research.google.com/drive/18Y3JDLhB3Re70_mEumEKY_9dlzbyKrCH?usp=sharing)
